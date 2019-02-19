@@ -1,5 +1,7 @@
 # Hep
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/codinggirl/hep.svg)](https://greenkeeper.io/)
+
 Hep is a HTTP middleware framework for node.js.
 
 [English](#en) | [简体中文](#zh-CN)
